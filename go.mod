@@ -1,4 +1,4 @@
-module github.com/uedun/kubeless
+module github.com/kubeless/kubeless
 
 go 1.12
 
